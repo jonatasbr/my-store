@@ -1,0 +1,16 @@
+
+{
+  "name": "NextJS with Typescript - Setup React",
+  "short_name": "MySetup",
+  "icons": [
+    {
+      "src": "/next.png",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#121214",
+  "description": "Setup React utilizando Typescript, React, NextJS e Styled Components!",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#121214"
+}
